@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/cipriano-prince/static/css/main.fa7d76ae.css",
-    "main.js": "/cipriano-prince/static/js/main.6b69f724.js",
+    "main.js": "/cipriano-prince/static/js/main.1eb59d93.js",
     "static/js/787.1ed0c42c.chunk.js": "/cipriano-prince/static/js/787.1ed0c42c.chunk.js",
+    "static/media/homepage.jpg": "/cipriano-prince/static/media/homepage.6e22a6245c42a00c743c.jpg",
+    "static/media/about.jpg": "/cipriano-prince/static/media/about.c7b68c263d1b3fca96c0.jpg",
+    "static/media/back-button.png": "/cipriano-prince/static/media/back-button.d19b46127c03f302fed2.png",
+    "static/media/logo.png": "/cipriano-prince/static/media/logo.1237bcab8ae084b777bd.png",
+    "static/media/twitter.png": "/cipriano-prince/static/media/twitter.7db2410756655c345272.png",
+    "static/media/Prince150x150.jpg": "/cipriano-prince/static/media/Prince150x150.3325a66b81118e008a4e.jpg",
     "index.html": "/cipriano-prince/index.html",
     "main.fa7d76ae.css.map": "/cipriano-prince/static/css/main.fa7d76ae.css.map",
-    "main.6b69f724.js.map": "/cipriano-prince/static/js/main.6b69f724.js.map",
+    "main.1eb59d93.js.map": "/cipriano-prince/static/js/main.1eb59d93.js.map",
     "787.1ed0c42c.chunk.js.map": "/cipriano-prince/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa7d76ae.css",
-    "static/js/main.6b69f724.js"
+    "static/js/main.1eb59d93.js"
   ]
 }
