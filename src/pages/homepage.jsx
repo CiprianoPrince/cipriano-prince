@@ -22,6 +22,7 @@ import SEO from "../data/seo";
 import myArticles from "../data/articles";
 
 import "./styles/homepage.css";
+import { homepageImg } from "../assets";
 
 const Homepage = () => {
 	const [stayLogo, setStayLogo] = useState(false);
@@ -104,7 +105,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src={homepageImg}
 											alt="about"
 											className="homepage-image"
 										/>

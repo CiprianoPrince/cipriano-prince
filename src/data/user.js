@@ -1,9 +1,11 @@
+import { logoImg, princeImg } from "../assets";
+
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Prince's Portfolio",
 		name: "Princeton Jude Liban Cipriano",
 		email: "princetonjudecipriano@gmail.com",
-		logo: "../logo.png",
+		logo: princeImg,
 	},
 
 	socials: {

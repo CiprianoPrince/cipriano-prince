@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Princeton Jude.dev. All Rights Reserved.
+						© 2023 Princeton Jude Cipriano, All Rights Reserved.
 					</div>
 				</div>
 			</div>
